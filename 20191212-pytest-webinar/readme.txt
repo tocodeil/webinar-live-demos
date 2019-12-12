@@ -38,7 +38,7 @@ Agenda:
       assert utils.twice(input) == expected_output
 
 
-=> 5. Monkey patching
+5. Monkey patching
   def test_age(capfd, monkeypatch):
       monkeypatch.setattr(sys, 'stdin', io.StringIO('5\n'))
       g = Greeter()
@@ -47,7 +47,14 @@ Agenda:
       assert "60" in text_written_to_stdout
 
 
-6. Fixtures
+===> 6. Fixtures
+  https://www.tocode.co.il/blog/2019-12-pytest-fixtures 
+  @pytest.fixture()
+  def greeter():
+      g = Greeter()
+      yield g
+      # clean up after you're done
+    
 
 7. Testing external API with requests
 
