@@ -1,10 +1,28 @@
 import utils
+import pytest
 
-def test_twice_1():
-    assert utils.twice(2) == 4
 
-def test_twice_2():
-    assert utils.twice(0) == 0
+@pytest.mark.parametrize(
+    "input,expected_output",
+    [
+        (2, 4),
+        (0, 0),
+        (-5, -10),
+        (-7, -14)
+    ]
+)
+def test_twice(input, expected_output):
+    assert utils.twice(input) == expected_output
 
-def test_twice_3():
-    assert utils.twice(-5) == -10
+
+@pytest.mark.parametrize(
+    "input,expected_output",
+    [
+        (2, 6),
+        (0, 0),
+        (-5, -15),
+        (-7, -21)
+    ]
+)
+def test_thrice(input, expected_output):
+    assert utils.thrice(input) == expected_output
