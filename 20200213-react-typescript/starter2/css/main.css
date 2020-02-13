@@ -1,0 +1,33 @@
+body {
+  background: beige;
+}
+
+.game {
+  width: 450px;
+}
+
+.card {
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  line-height: 100px;
+  text-align: center;
+  color: rgba(0,0,0,0);
+  border: 1px solid grey;
+}
+
+.card.revealed {
+  color: black;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  background: grey;
+  display: inline-block;
+  margin: 10px;
+}
+
+.winner {
+  background: red;
+}
