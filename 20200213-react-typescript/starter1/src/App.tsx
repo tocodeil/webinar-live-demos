@@ -2,6 +2,7 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 import { twice } from "./utils";
+import Focusable from "./06-ref-type-guards/focusable";
 
 const App = () => {
     const x = twice(2);
@@ -11,11 +12,7 @@ const App = () => {
 
     return (
         <div className="App">
-            <header className="App-header">
-                <p>
-                    There are {x} candies in the box
-                </p>
-            </header>
+            <Focusable/>
         </div>
     );
 };

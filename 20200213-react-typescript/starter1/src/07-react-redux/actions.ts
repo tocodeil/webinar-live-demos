@@ -10,7 +10,8 @@ export type IAction = (
     { type: '@@click', payload: number } |
     { type: '@@reset', payload: null } |
     { type: '@@newturn', payload: null } |
-    { type: '@@win' }
+    { type: '@@win' } |
+    { type: '@@foobar', payload: { messages: string[] }}
 );
 
 const ActionTypes = {

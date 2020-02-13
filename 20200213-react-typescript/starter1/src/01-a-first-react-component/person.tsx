@@ -1,7 +1,7 @@
 import React from "react";
 import "./person.css";
 
-function canVote(age) {
+function canVote(age: number) {
   return age > 18;
 }
 
