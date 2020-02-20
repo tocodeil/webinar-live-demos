@@ -1,0 +1,19 @@
+.container {
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(180deg, #ff008c 0%, rgb(211, 9, 225) 100%);
+    overflow: hidden;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container div {
+    background: white;
+    border-radius: 30px;
+    width: 150px;
+    height: 150px;
+}
+

@@ -1,0 +1,25 @@
+.items li {
+    margin-top: 10px;
+    transition: all 500ms ease-in;
+}
+
+.item {
+}
+
+.item-exit-active {
+    opacity: 1;
+    color: red;
+}
+
+.item-exit {
+    opacity: 0;
+}
+
+.item-enter-active {
+    opacity: 1;
+}
+
+.item-enter {
+    opacity: 0;
+    margin-left: -200px;
+}

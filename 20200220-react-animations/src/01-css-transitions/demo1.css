@@ -1,0 +1,25 @@
+body {
+    padding: 20px;
+}
+
+.target {
+    margin-top: 10px;
+    width: 100px;
+    height: 100px;
+    background: url(https://robohash.org/ynon?set=set4&size=100x100) lightgreen;
+    border-radius: 0px;
+    /*transition: all 0.5s;*/
+}
+
+.round {
+    border-radius: 50px;
+    transform: rotate(360deg);
+}
+
+.frame {
+    box-shadow: 0 0 2px 2px rosybrown;
+}
+
+.bw {
+    filter: grayscale(100%);
+}

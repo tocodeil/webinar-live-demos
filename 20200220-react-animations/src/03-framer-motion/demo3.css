@@ -1,0 +1,24 @@
+#root, .App, html, body {
+    height: 100%;
+}
+
+.container {
+    display: flex;
+    height: 100%;
+}
+
+.main {
+    background: lightblue;
+    width: 100%;
+    padding: 10px;
+}
+
+.sidebar {
+    width: 300px;
+}
+
+.sidebar img {
+    max-width: 100%;
+    height: 300px;
+}
+
