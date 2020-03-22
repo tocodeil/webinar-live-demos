@@ -15,7 +15,7 @@ export default function Demo() {
           <AnimatePresence>
             {visible &&
             <motion.div
-              animate={{ scale: 1.5 }}
+              animate={{ x: [50, -100, 0] }}
               exit={{scale: 0.2 }}
             />
             }

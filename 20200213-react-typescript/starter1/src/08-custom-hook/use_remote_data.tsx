@@ -53,11 +53,9 @@ function FilmInfo(props: { id: string }) {
         <div>
             <p>title: {data.title}</p>
             <p>release_date: {data.release_date}</p>
-            { /* <p>characters: {data.characters}</p> */ }
             <hr />
         </div>
     )
-
 }
 
 function parse(filmUrl: string): string {
@@ -70,7 +68,7 @@ function parse(filmUrl: string): string {
 
 function CharacterInfo(props: { id: string }) {
     const { id } = props;
-    const data = useRemoteData<IData>('people', id);
+    const data = useRemoteData('people', id);
 
     // Get character data ???
     if (data === null) {
