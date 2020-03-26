@@ -16,6 +16,9 @@ def find_available_filename_iter(base):
    
 print(find_available_filename_iter('hello'))
 
+
+
+
 # ---
 # Recursive code
 def find_available_filename_rec(base, i=0):

@@ -4,19 +4,20 @@ cannot be modified after it is created.
 """
 import random
 
-# Mutable Code
+# Mutable Data
 x = [10, 20, 30, 40]
 x.append(50)
 
-# Immutable Code
+# Immutable Data
 x = [10, 20, 30, 40]
 x = x + [50]
 
-# Mutable Code
+# Mutable Data
 x = [10, 20, 30, 40]
 random.shuffle(x)
 print(x)
 
-# Immutable Code
+# Immutable Data
 x = [10, 20, 30, 40]
 print(random.sample(x, k=len(x)))
+print(x)

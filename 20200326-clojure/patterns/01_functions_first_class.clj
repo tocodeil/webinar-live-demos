@@ -6,6 +6,11 @@
 ;     3. assigning them to variables or storing them in data structures
 (defn factorial [n] (reduce *' (range 1 (inc n))))
 
+
+
+
+
+
 ; 1. Passing functions as arguments to other functions
 (println (map factorial (range 10)))
 
@@ -14,5 +19,5 @@
 (println (plus-one 10))
 
 ; 3. Storing functions in variables and Data Structures
-(def twice #(* %1 2))
+(def twice (fn [x] (* x 2)))
 (println (twice 10))

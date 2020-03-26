@@ -1,10 +1,10 @@
 """
 First-class function
 The language supports:
-
     1. passing functions as arguments to other functions
     2. returning them as the values from other functions
     3. assigning them to variables or storing them in data structures
+
 """
 
 from math import sqrt, factorial
