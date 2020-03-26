@@ -1,21 +1,15 @@
+
+
 Hi ;)
 
 Clojure & Functional Programming Webinar
 
 1. What's functional programming? What's Clojure ?
-  (3 minutes)
 
 2. Who cares about functional programming?
   * Big Data
-    * Spark (Scala)
-    * Kafka (Scala)
-
   * Web
-    * React / Redux (JavaScript)
-
   * Data Analysis
-
-  (5 minutes)
 
 3. Functional Programming Principles
    (Python -> Clojure)
@@ -26,6 +20,12 @@ Clojure & Functional Programming Webinar
 
 4. How we use clojure  
   (10 minutes)
+
+
+
+
+
+
 
 ----
 
