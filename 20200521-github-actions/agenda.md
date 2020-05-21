@@ -1,4 +1,27 @@
-# Github Actions
+
+
+# Github Actions Webinar
+
+
+Welcome All,
+
+        We'll start at 10:00
+
+
+Meanwhile you can clone the repository for today:
+https://github.com/tocodeil/webinar-live-demos
+
+
+
+
+
+
+
+
+
+
+
+## Agenda
 
 1. Hello Action World
   https://github.com/appleboy/telegram-action
@@ -15,6 +38,25 @@
   - Deploy to test server
   - Run selenium tests on every commit
   - Lint python files on every commit
+
+
+## Resources
+
+Repo:
+https://github.com/tocodeil/webinar-live-demos
+
+Webinar Calendar:
+https://www.tocode.co.il/workshops
+
+Telegram Group:
+https://t.me/joinchat/AWs1IUiV3K_uYcvi5smjfw
+
+
+
+
+
+
+
 
 
 
