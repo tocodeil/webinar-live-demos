@@ -1,0 +1,2107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" xml:base="https://my.health.gov.il/CliniTrials/_api/">
+  <id>9a9ecc8b-40e5-46bd-b5c3-2b67276f3958</id>
+  <title/>
+  <updated>2020-05-21T12:48:56Z</updated>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(1)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(1)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title>איש קשר ראשון</d:Title>
+        <d:HealthGeographicArea>צפון</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי ע"ש א. וולפסון</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>חוקר א</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>0527692254</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>batnak1@gmail.com</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(2)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(2)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title>איש קשר שני</d:Title>
+        <d:HealthGeographicArea>מרכז</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>בי"ח שערי צדק</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>חוקר ב</d:HealthRuoff>
+        <d:HealthResearchStatus>לא מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>0527692254</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>abc@def.ghi</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(5)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(5)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>צפון</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>בי"ח שערי צדק</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>פרופ' אריה לוין</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>02-9800123</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>lenakonoplev@smc.com</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(6)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(6)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>מרכז</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי ע"ש א. וולפסון</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>פרופ' דן טרנר</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>08-3455000</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>lenakonv@gmail.com</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(7)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(7)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>ירושלים</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>בי"ח ע"ש קפלן</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>דר' מיכל קורי</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>03-7894445</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>Orit-lev@vollfson.org.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(8)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(8)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>מרכז</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>בי"ח שערי צדק</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>פרופ עמית שגב</d:HealthRuoff>
+        <d:HealthResearchStatus>לא התחיל לגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>0526667581</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>segev@sheba.health.gov.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(9)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(9)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>ירושלים</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי ע"ש ד"ר ח. שיבא, תל-השומר</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>דר' אאא בבב</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>0123456789</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>aaa@hhh.nnn</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(10)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(10)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>ירושלים</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>בי"ח האוניברסיטאי הדסה עין כרם</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>ד"ר דוד פלנר</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>02-6777607</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>yael@haddasa.org.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(11)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(11)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>צפון</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי ע"ש ד"ר ח. שיבא, תל-השומר</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>פרופ יבגניה ניקולסקי</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>0123456789</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>alla_a@clalit.org.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(12)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(12)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>מרכז</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי ע"ש רמב"ם</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>פרופ יבגניה ניקולסקי</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>0123456790</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>alla_a@clalit.org.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(13)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(13)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>ירושלים</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>בי"ח האוניברסיטאי הדסה עין כרם</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>פרופ יבגניה ניקולסקי</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>0123456791</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>alla_a@clalit.org.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(14)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(14)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>צפון</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>בי"ח המרכזי בעמק</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>פרופ יבגניה ניקולסקי</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>0123456792</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>alla_a@clalit.org.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(15)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(15)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>מרכז</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי ע"ש א. וולפסון</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>פרופ יבגניה ניקולסקי</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>0123456793</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>alla_a@clalit.org.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(16)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(16)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>מרכז</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>בי"ח ע"ש קפלן</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>פרופ יבגניה ניקולסקי</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>0123456794</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>alla_a@clalit.org.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(17)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(17)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>צפון</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי ע"ש ד"ר ח. שיבא, תל-השומר</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>פרופ' אורי אפרתי</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>04-7773263</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>liora@tasmc.org.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(18)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(18)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>מרכז</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>בי"ח האוניברסיטאי הדסה עין כרם</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>פרופ' איתן כרם</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>04-7771198</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>yael@sheba.gov.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(19)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(19)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>ירושלים</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי אוניברסיטאי סורוקה</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>ד"ר מיכה אבירם</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>04-7769133</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>bentur@rambam.health.gov.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(20)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(20)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>צפון</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי ע"ש רמב"ם</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>פרופ' לאה בנטור</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>04-7767068</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>liora@tasmc.org.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(21)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(21)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>מרכז</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז שניידר לרפואת ילדים</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>פרופ' חנה בלאו</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>04-7765003</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>yael@sheba.gov.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(22)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(22)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>ירושלים</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>בי"ח ע"ש ליידי דיויס, הכרמל</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>ד"ר גלית לבנת לבנון</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>04-7762938</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>bentur@rambam.health.gov.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(23)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(23)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>דרום</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי ע"ש ד"ר ח. שיבא, תל-השומר</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>ד"ר אנדריאה ניסנקורן</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>04-7773263</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>liora@tasmc.org.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(24)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(24)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>צפון</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי ע"ש א. וולפסון</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>ד"ר אילן בלט</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>04-7771198</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>yael@sheba.gov.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(25)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(25)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>מרכז</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז שניידר לרפואת ילדים</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>פרופ. טלי שגיא</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>04-7769133</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>bentur@rambam.health.gov.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(26)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(26)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>דרום</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי ע"ש ברזילי</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>פרופ. גולדברג</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>04-7767068</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>liora@tasmc.org.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(27)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(27)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>צפון</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>בי"ח האוניברסיטאי הדסה עין כרם</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>ד"ר אפל</d:HealthRuoff>
+        <d:HealthResearchStatus>לא התחיל לגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>04-7765003</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>yael@sheba.gov.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(28)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(28)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>מרכז</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי ע"ש רמב"ם</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>ד"ר אקשטיין וד"ר אייכל</d:HealthRuoff>
+        <d:HealthResearchStatus>לא התחיל לגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>04-7762938</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>bentur@rambam.health.gov.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(29)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(29)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>מרכז</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי ע"ש ספיר, מאיר</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>דר' נועם בנימיני</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>04-7771198</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>yael@sheba.gov.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(30)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(30)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>מרכז</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>בי"ח האוניברסיטאי הדסה עין כרם</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>דר' יזהר הרדן</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>04-7769133</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>bentur@rambam.health.gov.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(31)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(31)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>צפון</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי תל-אביב ע"ש א. סוראסקי</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>פרופ' דינה בן יהודה</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>04-7767068</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>liora@tasmc.org.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(32)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(32)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>מרכז</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי ע"ש ד"ר ח. שיבא, תל-השומר</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>דר' עירית אביבי</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>04-7765003</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>yael@sheba.gov.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>צפון</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי ע"ש רמב"ם</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>פרופ' ארנון נגלר</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>04-7762938</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>bentur@rambam.health.gov.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(34)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(34)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>צפון</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי ע"ש ספיר, מאיר</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>ד"ר צהלה צוק- שינא</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>04-7773263</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>liora@tasmc.org.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(35)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(35)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>מרכז</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>בי"ח האוניברסיטאי הדסה עין כרם</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>ד"ר פליקס בוקשטיין</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>04-7771198</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>yael@sheba.gov.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(36)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(36)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>ירושלים</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי תל-אביב ע"ש א. סוראסקי</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>ד"ר ליאור צח</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>04-7769133</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>bentur@rambam.health.gov.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(37)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(37)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>דרום</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי ע"ש ד"ר ח. שיבא, תל-השומר</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>פרופ' אלכס לוסוס</d:HealthRuoff>
+        <d:HealthResearchStatus>לא התחיל לגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>04-7767068</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>liora@tasmc.org.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(38)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(38)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>ירושלים</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי ע"ש רמב"ם</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>ד"ר קונסטנטין לברנקוב</d:HealthRuoff>
+        <d:HealthResearchStatus>לא התחיל לגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>04-7765003</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>yael@sheba.gov.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(39)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(39)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>דרום</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי ע"ש ברזילי</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>ד"ר שלומית יוסט- כ"ץ</d:HealthRuoff>
+        <d:HealthResearchStatus>לא התחיל לגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>04-7762938</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>bentur@rambam.health.gov.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(40)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(40)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>מרכז</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי תל-אביב ע"ש א. סוראסקי</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>פרו"פ עירית אביבי</d:HealthRuoff>
+        <d:HealthResearchStatus>סיים לגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>03-8244679</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>ronit@tasmc.org.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(41)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(41)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>צפון</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי ע"ש ד"ר ח. שיבא, תל-השומר</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>ד"ר עדי להט צוק</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>03-5302660</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>ofir@clalit.org.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(42)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(42)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>מרכז</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי אוניברסיטאי סורוקה</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>פרופ' אלכסנדר פיש</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>03-5302661</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>ofir@clalit.org.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(43)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(43)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>ירושלים</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי לגליל</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>פרופ' עאסי נימר</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>03-5302662</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>ofir@clalit.org.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(44)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(44)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>דרום</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי ע"ש ברזילי</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>דר' שמואל דלגדו</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>03-5302663</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>ofir@clalit.org.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(45)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(45)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>צפון</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי תל-אביב ע"ש א. סוראסקי</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>דר' סיגל פישמן</d:HealthRuoff>
+        <d:HealthResearchStatus>לא התחיל לגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>03-5302664</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>ofir@clalit.org.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(46)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(46)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>מרכז</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>בי"ח ע"ש קפלן</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>דר' אהוד מלצר</d:HealthRuoff>
+        <d:HealthResearchStatus>לא התחיל לגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>03-5302665</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>ofir@clalit.org.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(47)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(47)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>ירושלים</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי ע"ש רמב"ם</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>דר' מתי וטרמן</d:HealthRuoff>
+        <d:HealthResearchStatus>לא התחיל לגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>03-5302666</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>ofir@clalit.org.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(48)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(48)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>דרום</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>בי"ח שערי צדק</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>פרופ' ערן גולדין</d:HealthRuoff>
+        <d:HealthResearchStatus>סיים לגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>03-5302667</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>ofir@clalit.org.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(49)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(49)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>צפון</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>בי"ח המרכזי בעמק</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>פרופ' איין גרלנק</d:HealthRuoff>
+        <d:HealthResearchStatus>סיים לגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>03-5302668</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>ofir@clalit.org.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(7039)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(7039)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>צפון</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי לגליל</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>פרופ' עאסי נימר</d:HealthRuoff>
+        <d:HealthResearchStatus>לא מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>04-9886229</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>Nelly.Bar-Guy@naharia.health.gov.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(32728)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(32728)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>מרכז</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי ע"ש ד"ר ח. שיבא, תל-השומר</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>פרופ' נגלר</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>03-5305830</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail m:null="true"/>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(32729)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(32729)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>ירושלים</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>בית חולים האוניברסיטאי הדסה עין כרם</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>פרופ' בן יהודה</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>02-6776744</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail m:null="true"/>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(32730)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(32730)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>תל – אביב</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי תל-אביב ע"ש א. סוראסקי</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>דר' שריד</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>03-6947249</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail m:null="true"/>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(32731)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(32731)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>צפון</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי ע"ש רמב"ם</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>פרופ' דן</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>04-8542547</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail m:null="true"/>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(32750)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(32750)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>מרכז</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי ע"ש ד"ר ח. שיבא, תל-השומר</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>פרופ' ארנון נגלר</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>03-5305830</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail m:null="true"/>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(32751)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(32751)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>ירושלים</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>בית חולים האוניברסיטאי הדסה עין כרם</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff m:null="true"/>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>02-6779267</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail m:null="true"/>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(32752)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(32752)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>תל – אביב</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי תל-אביב ע"ש א. סוראסקי</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff m:null="true"/>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>03-6947249</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail m:null="true"/>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(32753)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(32753)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>צפון</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי ע"ש רמב"ם</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff m:null="true"/>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>04-8542547</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail m:null="true"/>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(32754)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(32754)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>מרכז</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי ע"ש רבין, קמפוס בילינסון</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff m:null="true"/>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>03-9377931</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail m:null="true"/>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(32755)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(32755)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>מרכז</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי ע"ש ד"ר ח. שיבא, תל-השומר</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>דר' טליה גולן</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>03-5302542</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail m:null="true"/>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(32773)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(32773)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>מרכז</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי ע"ש רבין, קמפוס בילינסון</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>פרופ' דניאל מימוני</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>03-9377435</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail m:null="true"/>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(32774)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(32774)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>תל – אביב</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי תל-אביב ע"ש א. סוראסקי</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>ד"ר טל צאלי</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>03-6973768</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail m:null="true"/>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(32775)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(32775)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>צפון</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>בית חולים המרכזי בעמק</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>פרופ' מיכאל זיו</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>04-6494006</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail m:null="true"/>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(32776)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(32776)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>צפון</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי ע"ש רמב"ם</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>ד"ר מיכל רמון</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>04-7773290</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail m:null="true"/>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(32777)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(32777)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>מרכז</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי ע"ש ד"ר ח. שיבא, תל-השומר</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>ד"ר שרון באום</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>03-5302419</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail m:null="true"/>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(32839)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(32839)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>ירושלים</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>בית חולים האוניברסיטאי הדסה עין כרם</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>פרופ' תמר פרץ-יבלונסקי</d:HealthRuoff>
+        <d:HealthResearchStatus>טרם החל גיוס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>02-6777631</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail m:null="true"/>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(32840)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(32840)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>דרום</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי אוניברסיטאי סורוקה</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>פרופ' דוד גפן</d:HealthRuoff>
+        <d:HealthResearchStatus>טרם החל גיוס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>08-6400799</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail m:null="true"/>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(32841)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(32841)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>מרכז</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי ע"ש ד"ר ח. שיבא, תל-השומר</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>ד"ר שני שמעון-פאלוך</d:HealthRuoff>
+        <d:HealthResearchStatus>טרם החל גיוס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>03-5304961</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail m:null="true"/>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(32842)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(32842)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>תל – אביב</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי תל-אביב ע"ש א. סוראסקי</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>ד"ר לריסה ריבו</d:HealthRuoff>
+        <d:HealthResearchStatus>טרם החל גיוס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>03-6973494</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail m:null="true"/>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(32843)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(32843)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>מרכז</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי ע"ש רבין, קמפוס בילינסון</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>פרופ' סלומון שטמר</d:HealthRuoff>
+        <d:HealthResearchStatus>טרם החל גיוס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>03-9378101</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail m:null="true"/>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(32844)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(32844)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>מרכז</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי ע"ש אסף הרופא, צריפין</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>דר' דניאלה כץ</d:HealthRuoff>
+        <d:HealthResearchStatus>טרם החל גיוס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>03-9778003</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail m:null="true"/>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33008)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33008)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>מרכז</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז שניידר לרפואת ילדים</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>פרופ' שי אשכנזי</d:HealthRuoff>
+        <d:HealthResearchStatus>טרם החל גיוס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>03-9253680</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail m:null="true"/>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33009)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33009)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>דרום</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי אוניברסיטאי סורוקה</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>פרופ' אביב גולדברט</d:HealthRuoff>
+        <d:HealthResearchStatus>טרם החל גיוס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>08-6403400</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail m:null="true"/>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33010)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33010)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>צפון</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי ע"ש רמב"ם</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>פרופ' לאה בנטור</d:HealthRuoff>
+        <d:HealthResearchStatus>טרם החל גיוס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>04-7772650</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail m:null="true"/>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33043)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33043)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>מרכז</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי ע"ש רבין, קמפוס בילינסון</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>ד"ר משה ישורון</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>03-9378153</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>mayamo31@clalit.org.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33044)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33044)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>צפון</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי ע"ש רמב"ם</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>פרופ' צילה צוקרמן</d:HealthRuoff>
+        <d:HealthResearchStatus>טרם החל גיוס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>04-7773248</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>h_wildbaum@rambam.health.gov.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33045)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33045)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>ירושלים</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>בית חולים האוניברסיטאי הדסה עין כרם</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>דר' בתיה אבני</d:HealthRuoff>
+        <d:HealthResearchStatus>טרם החל גיוס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>02-6777111</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>liliane@hadassah.org.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33046)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33046)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>תל – אביב</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי תל-אביב ע"ש א. סוראסקי</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>ד"ר רון רם</d:HealthRuoff>
+        <d:HealthResearchStatus>טרם החל גיוס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>03-6944143</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>liorar@tlvmc.gov.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33061)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33061)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>מרכז</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי ע"ש ספיר, מאיר</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>פרופ דויד שיטרית</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>09-7472161</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>idan.ravid@clalit.org.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33062)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33062)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>מרכז</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>בית חולים ע"ש קפלן</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>דר גרשון פינק</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>08-9441026</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>Shiriya@clalit.org.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33063)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33063)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>דרום</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי אוניברסיטאי סורוקה</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>דר יעל רביב</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>08-6244245</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>ayeletpu@clalit.org.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33064)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33064)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>ירושלים</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>בית חולים האוניברסיטאי הדסה עין כרם</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>פרופ נויל ברקמן</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>02-6777903</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>oksanae@gmail.com</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33065)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33065)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>דרום</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי ע"ש ברזילי</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>דר אמיר בר שי</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>08-6745928</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>einata@barzi.health.gov.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33066)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33066)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>מרכז</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי ע"ש רבין, קמפוס בילינסון</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>פרופ מרדכי קרמר</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>03-9377214</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>lioray@clalit.org.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33067)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33067)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>מרכז</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי ע"ש א. וולפסון</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>פרופ אורן פרוכטר</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>052-5215442</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>haneens@wolfson.health.gov.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33068)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33068)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>ירושלים</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>בית חולים שערי צדק</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>פרופ גבריאל איזבצקי</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>02-6555676</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>nmde@bezeqint.net</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33075)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33075)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>ירושלים</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>בית חולים האוניברסיטאי הדסה הר הצופים</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>פרופ' נוויל ברקמן</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>02-6777903</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>oksanae@gmail.com</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33076)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33076)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>ירושלים</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>בית חולים שערי צדק</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>פרופ' גבריאל איזביצקי</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>02-6555676</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>nmde@bezeqint.net</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33077)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33077)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>מרכז</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי ע"ש רבין, קמפוס בילינסון</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>פרופי מרדכי קרמר</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>03-9377214</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>lioray@clalit.org.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33078)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33078)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>צפון</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי ע"ש רמב"ם</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>פרופ לאה בנטור</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>04-7772650</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>i_marom@rambam.health.gov.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33079)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33079)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>צפון</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>בית חולים ע"ש ליידי דיויס, הכרמל</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>דר' גלית ליבנת</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>04-8250542</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>einatBe2@clalit.org.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33080)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33080)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>מרכז</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>בית חולים ע"ש קפלן</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>דר גרשון פינק</d:HealthRuoff>
+        <d:HealthResearchStatus>טרם החל גיוס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>052-4560118</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>MayaHe@clalit.org.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33142)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33142)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>מרכז</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי ע"ש רבין, קמפוס בילינסון</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>ד"ר שחר אהרוני</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>03-9376553</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>yaaraba1@clalit.org.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33143)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33143)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>צפון</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>בית חולים ע"ש ליידי דיויס, הכרמל</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>ד"ר בוריס פרידמן</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>04-8250122</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>HillaCo@clalit.org.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33144)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33144)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>צפון</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי ע"ש רמב"ם</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>ד"ר אילן גרינוולד</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>04-7772745</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>Y_HAHAM@rambam.health.gov.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33145)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33145)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>מרכז</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי ע"ש ד"ר ח. שיבא, תל-השומר</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>ד"ר נועם קיטרי</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>03-5304736</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>efrat.ezra@sheba.health.gov.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33146)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33146)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>מרכז</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי ע"ש ספיר, מאיר</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>ד"ר מיכאל ווינריב</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>054-6859530</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>oshratpa@clalit.org.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33147)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33147)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>צפון</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי ע"ש בני ציון</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>ד"ר גיל מאייר</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>04-8359283</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>natalie.malul@b-zion.org.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33148)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33148)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>דרום</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>קופת חולים כללית</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>ד"ר יאן פרס</d:HealthRuoff>
+        <d:HealthResearchStatus>מגייס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>08-6477433</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>freudt@bgu.ac.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33152)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33152)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>מרכז</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז שניידר לרפואת ילדים</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>ד"ר עינת בירק</d:HealthRuoff>
+        <d:HealthResearchStatus>טרם החל גיוס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>03-9253717</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>naamat@clalit.org.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33153)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33153)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>מרכז</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי ע"ש ד"ר ח. שיבא, תל-השומר</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>ד"ר אוריאל כץ</d:HealthRuoff>
+        <d:HealthResearchStatus>טרם החל גיוס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>03-5308001</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>tselia.levy@sheba.health.gov.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="&quot;1&quot;">
+    <id>Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33154)</id>
+    <category term="SP.Data.ResearchContactsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'cc811c1a-9d95-465d-938c-be5ca1a32353')/Items(33154)"/>
+    <title/>
+    <updated>2020-05-21T12:48:56Z</updated>
+    <author>
+      <name/>
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:Title m:null="true"/>
+        <d:HealthGeographicArea>צפון</d:HealthGeographicArea>
+        <d:HealthRecruitersMedicalCenters>מרכז רפואי ע"ש רמב"ם</d:HealthRecruitersMedicalCenters>
+        <d:HealthRuoff>פרופ' לאה בנטור אלקובי</d:HealthRuoff>
+        <d:HealthResearchStatus>טרם החל גיוס</d:HealthResearchStatus>
+        <d:HealthCoordinatorPhone>04-7772650</d:HealthCoordinatorPhone>
+        <d:HealthCoordinatorMail>i_marom@rambam.health.gov.il</d:HealthCoordinatorMail>
+      </m:properties>
+    </content>
+  </entry>
+  <link rel="next" href="https://my.health.gov.il/CliniTrials/_api/web/lists/getbytitle('ResearchContacts')/items?%24skiptoken=Paged%3dTRUE%26p_ID%3d33154&amp;%24select=Title%2cHealthRuoff%2cHealthGeographicArea%2cHealthRecruitersMedicalCenters%2cHealthResearchStatus%2cHealthCoordinatorPhone%2cHealthCoordinatorMail"/>
+</feed>

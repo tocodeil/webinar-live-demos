@@ -1,0 +1,19 @@
+.game {
+  padding-top: 30px;
+  text-align: center;
+  font-size: 2rem;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  background: grey;
+  border: 1px solid;
+  display: inline-block;
+  user-select: none;
+  margin: 10px;
+}
+
+.box.winner {
+  background: red;
+}

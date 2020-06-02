@@ -1,0 +1,11 @@
+# Service Worker Tutorial
+https://developers.google.com/web/fundamentals/primers/service-workers
+
+# Check installed service workers in chrome
+chrome://inspect/#service-workers
+
+# Service worker debugging in Firefox
+about:debugging#/runtime/this-firefox
+
+
+
