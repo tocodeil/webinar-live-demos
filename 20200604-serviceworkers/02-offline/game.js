@@ -24,8 +24,7 @@ function clicked(ev) {
 }
 
 function shuffle() {
-  const winnerIndex = _.random(9);
-  console.log(winnerIndex);
+  const winnerIndex = _.random(10);
   const previousWinner = container.querySelector('.winner');
   if (previousWinner) {
     previousWinner.classList.remove('winner');
