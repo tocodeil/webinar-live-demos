@@ -1,7 +1,5 @@
 # coding=utf8
 
-from selenium import webdriver
-
 def test_title(browser):
     browser.get('https://duckduckgo.com')
     assert browser.title == u'DuckDuckGo \u2014 Privacy, simplified.'
