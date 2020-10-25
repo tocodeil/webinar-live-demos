@@ -1,0 +1,30 @@
+.game {
+  padding: 10px;
+}
+
+.game .box {
+  width: 40px;
+  height: 40px;
+  margin: 10px;
+  background: gray;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.game .box:first-of-type {
+  margin-left: 0;
+}
+
+.game .box:last-of-type {
+  margin-right: 0;
+}
+
+
+.game .winner {
+  background: red;
+}
+
+.control-panel {
+  border-bottom: 1px solid grey;
+}
+
