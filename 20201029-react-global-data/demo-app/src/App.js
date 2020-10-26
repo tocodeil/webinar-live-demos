@@ -28,7 +28,6 @@ function RedSpotter(props) {
   const [score, setScore] = useState(0);
   const [winnerIndex, setWinnerIndex] = useState(_.random(4));
   const gameIndex = useSelector(state => state.gameIndex);
-  console.count("Render");
 
   useEffect(function() {
     setScore(0);
