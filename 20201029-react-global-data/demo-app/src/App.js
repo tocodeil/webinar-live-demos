@@ -20,15 +20,16 @@ function ControlPanel(props) {
 function RedSpotter(props) {
   const [score, setScore] = useState(0);
   const [winnerIndex, setWinnerIndex] = useState(_.random(4));
+  const scoreChange = -2;
 
   function handleClick(i) {
     if (i === winnerIndex) {
       setWinnerIndex(_.random(4));
-      setScore(s => s + 5);
-    } else {
-      setScore(s => s - 2);
+      scoreChange = 5;
     }
   }
+
+  setScore(s => s + scoreChange);
 
   return (
     <div className="game">
