@@ -1,5 +1,4 @@
-import React, { useState, useContext, useEffect, useCallback, useMemo } from 'react';
-import logo from './logo.svg';
+import React, { useState, useContext, useEffect } from 'react';
 import './App.css';
 import _ from 'lodash';
 
