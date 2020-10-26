@@ -1,33 +1,44 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import logo from './logo.svg';
 import './App.css';
 import _ from 'lodash';
+import globalGameData from './mobx/redspotter';
+import { observer } from "mobx-react"
 
-function ControlPanel(props) {
+const ControlPanel = observer(function ControlPanel(props) {
   function reset() {
+    globalGameData.reset();
   }
 
   return (
     <div className="control-panel">
       <p>
-        Total Score: {0}
+        Total Score: {globalGameData.totalScore}
         <button onClick={reset}>Reset Everything</button>
       </p>
     </div>
   );
-}
+});
 
-function RedSpotter(props) {
+const RedSpotter = observer(function RedSpotter(props) {
   const [score, setScore] = useState(0);
   const [winnerIndex, setWinnerIndex] = useState(_.random(4));
+  let scoreChange = -2;
+
+  console.count("Render");
+
+  useEffect(function() {
+    setScore(0);
+    setWinnerIndex(0);
+  }, [globalGameData.gameIndex]);
 
   function handleClick(i) {
     if (i === winnerIndex) {
       setWinnerIndex(_.random(4));
-      setScore(s => s + 5);
-    } else {
-      setScore(s => s - 2);
+      scoreChange = 5;
     }
+    setScore(s => s + scoreChange);
+    globalGameData.addScore(scoreChange);
   }
 
   return (
@@ -42,7 +53,7 @@ function RedSpotter(props) {
       ))}
     </div>
   );
-}
+});
 
 function App() {
   return (
