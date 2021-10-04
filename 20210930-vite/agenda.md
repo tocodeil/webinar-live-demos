@@ -1,11 +1,27 @@
 
-Hi ;)
-
-I'm Ynon Perek
 
 
 
-Vite: Next Generation Frontend Tooling
+
+
+                                                   Hi ;)
+
+                                               I'm Ynon Perek
+
+
+
+
+                                   Vite: Next Generation Frontend Tooling
+
+                                             We Start at 10:00
+
+
+
+
+
+
+
+
 
 
 
@@ -20,7 +36,7 @@ Agenda:
 
 3. Features
   - scss
-  - typescript
+  - typescript (if file ends with .ts it will be typescript)
   - CSS modules
 
 4. Build for production
