@@ -1,0 +1,17 @@
+.col {
+  border: 1px solid grey;
+  border-collapse: collapse;
+  margin: 0;
+  width: 10px;
+  height: 10px;
+  line-height: 10px;
+  text-align: center;
+  display: inline-block;
+  overflow: hidden;
+  vertical-align: top;
+}
+
+.row {
+  overflow: hidden;
+  height: 10px;
+}
