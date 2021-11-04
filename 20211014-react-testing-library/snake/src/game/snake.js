@@ -1,6 +1,6 @@
 import _ from 'lodash';
 
-function restart() {
+export function restart() {
   snake.size = 4;
   snake.pos = [[0, 0]];
   snake.direction = [0, 1];

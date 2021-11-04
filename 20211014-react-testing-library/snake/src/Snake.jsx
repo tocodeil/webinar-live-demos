@@ -45,18 +45,24 @@ export default function Snake(props) {
 
 
   return (
-    _.range(50).map(row => (
-      <div className="row" key={`row-${row}`}>
-	{
-	  _.range(50).map(col => (
-	    <div
-	      className="col"
-	      style={{ background: colorOf(row, col, snakeData, appleData)}}
-	      key={`col-${row}-${col}`}
-	    />
-	  ))
-	}
-      </div>
-    ))
+    <>
+    <h1>Snake Game</h1>
+      {
+        _.range(50).map(row => (
+          <div className="row" key={`row-${row}`}>
+            {
+              _.range(50).map(col => (
+                <div
+                  className="col"
+                  style={{ background: colorOf(row, col, snakeData, appleData)}}
+                  data-testid={`cell-${row},${col}`}
+                  key={`col-${row}-${col}`}
+                />
+              ))
+            }
+          </div>
+        ))
+      }
+    </>
   )
 }
