@@ -1,0 +1,13 @@
+version: "3.8"
+services:
+  web:
+    image: "node:16"
+    ports:
+      - "3000:3000"
+    volumes:
+      - ".:/app"
+    working_dir: "/app"
+    command: bash -c "npm install && npm install -g nodemon && nodemon /app/server.js"
+
+  redis:
+    image: "redis:alpine"
