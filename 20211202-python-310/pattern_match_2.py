@@ -3,7 +3,7 @@ def has_access(user, post):
         case {"admin": True}:
             return True
 
-        case {"id": user_id} if post["author_id"] == user_id:
+        case {"id": post["author_id"]}:
             return True
 
         case _:

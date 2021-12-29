@@ -1,21 +1,32 @@
+Good morning :)
+
+Ynon Perek
+
+
+
 # Python 3.10 New Features
+
+
+
+
+
 
 1. Better error messages
 
-2. split multiple open() as to lines
+2. split multiple with as to lines
 
 3. Use | for union types
 
 4. Pattern Matching (PEP 634)
   - "Hello World" demo
   - What can you use as templates:
-    [ ] literals
-    [ ] capture patterns
-    [ ] wildcard patterns
-    [ ] constant patterns
-    [ ] sequence patterns
-    [ ] mapping patterns
-    [ ] class patterns
+    [x] literals
+    [x] capture patterns
+    [x] wildcard patterns
+    [x] constant patterns
+    [x] sequence patterns
+    [x] mapping patterns
+    [x] class patterns
     
   - Guards
   - overriding __eq__ to better match case

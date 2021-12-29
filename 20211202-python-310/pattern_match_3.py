@@ -9,9 +9,8 @@ def area(shape):
         case Square(_, _, w, h):
             return w * h
 
-@dataclass(match_args=False)
+@dataclass
 class Circle:
-    __match_args__ = ('cx', 'cy', 'radius')
     cx: float
     cy: float
     radius: float
