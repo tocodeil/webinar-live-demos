@@ -4,7 +4,7 @@ const mockDb = require('../test-helpers/db');
 
 afterEach(() => {
   app.close();
-});
+// });
 
 describe('#items', () => {
   it('can get items', async () => {

@@ -1,16 +1,31 @@
-# Testing Node.JS Apps
+# Testing Node.JS Apps - Ynon Perek
 
-[ ] Add jest + supertest
 
-[ ] Testing route logic
-  * [ ] test HTML using jsdom
+Hi All :)
+
+We Start at 10:00
+
+
+
+
+
+# Agenda
+
+[x] Add jest + supertest
+
+[x] Testing route logic
+  * [x] test HTML using jsdom
   * [ ] test json
-  * [ ] run tests from webstorm
+  * [x] run tests from webstorm
 
-[ ] Using Jest Spies
+[x] Using Jest Spies
   * [ ] Fake system timers with jest spyOn
-  * [ ] Fake external APIs with jest spyOn
+  * [x] Fake external APIs with jest spyOn
 
 [ ] Setting up and using a test database
+  - spy on the DB functions / mock the DB
+  - craete a test database
+  - 03-db/after
+
 
 

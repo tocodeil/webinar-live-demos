@@ -14,7 +14,7 @@
     "morgan": "~1.9.1"
   },
   "devDependencies": {
-    "jest": "^27.4.5",
+    "jest": "^27.4.7",
     "jsdom": "^19.0.0",
     "supertest": "^6.1.6"
   }

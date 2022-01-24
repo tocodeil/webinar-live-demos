@@ -1,17 +1,20 @@
 var express = require('express');
 var router = express.Router();
-const request = require('superagent');
+const githubapi = require('../lib/githubapi');
 
 /* GET home page. */
 router.get('/:username', async function(req, res, next) {
   const { username } = req.params;
-  const response = await request
-    .get(`https://api.github.com/users/${username}`)
-    .set('User-Agent', 'demo');
-  const data = response.body;
-  res.send(`User ${username} has ${data.followers} followers`);
+  const followers = await githubapi.getNumberOfFollowers(username);
+  res.send(`User ${username} has ${followers} followers`);
 });
 
 module.exports = router;
 
 
+/**
+ * 1. My own code
+ *
+ * 2. How my own code INTERACTS with some external entity
+ *
+ */
