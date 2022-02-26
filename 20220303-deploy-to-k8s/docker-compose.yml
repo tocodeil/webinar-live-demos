@@ -1,0 +1,33 @@
+version: "3.9"
+
+services:
+  app:
+    image: node:17
+    working_dir: /app
+    command: bash -c "npm install && npm run dev"
+    volumes:
+      - ./theboard:/app
+
+    env_file: ./env/dev.env
+    environment:
+      DB_HOST: db
+    ports:
+      - "3000:3000"
+
+    secrets:
+      - db_password
+
+  db:
+    image: postgres:14.2
+    secrets:
+      - db_password
+    volumes:
+      - ./db:/docker-entrypoint-initdb.d/
+    env_file: ./env/dev.env
+    ports:
+      - "5432:5432"
+
+secrets:
+  db_password:
+    file: ./secrets/db_password
+
