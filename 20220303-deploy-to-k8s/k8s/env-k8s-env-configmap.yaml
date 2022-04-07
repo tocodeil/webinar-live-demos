@@ -1,0 +1,11 @@
+apiVersion: v1
+data:
+  POSTGRES_DB: theboard
+  POSTGRES_PASSWORD_FILE: /var/run/secrets/dbpassword/dbpassword
+  POSTGRES_USER: ynon
+kind: ConfigMap
+metadata:
+  creationTimestamp: null
+  labels:
+    io.kompose.service: app-env-k8s-env
+  name: env-k8s-env

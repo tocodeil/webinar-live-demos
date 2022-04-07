@@ -18,6 +18,6 @@ async function handleGet(req, res) {
 async function handlePost(req, res) {
   const { reporter, text } = JSON.parse(req.body);
   await addReport(reporter, text);
-  res.state(201);
+  res.status(201);
 }
 
