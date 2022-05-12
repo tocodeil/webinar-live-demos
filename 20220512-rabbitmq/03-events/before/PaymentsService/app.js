@@ -1,0 +1,28 @@
+var express = require('express');
+var cookieParser = require('cookie-parser');
+var logger = require('morgan');
+const amqp = require('amqplib');
+const { RABBITMQ_URL } = process.env;
+const { RabbitMQ } = require('./reconnecting_rabbit');
+
+var indexRouter = require('./routes/index');
+
+var app = express();
+
+const rabbit = new RabbitMQ(RABBITMQ_URL);
+
+async function setup(app) {
+  await rabbit.init();
+  app.use(logger('dev'));
+  app.use(express.json());
+  app.use(express.urlencoded({ extended: false }));
+  app.use(cookieParser());
+  console.log('setup');
+
+  app.use('/', indexRouter);
+}
+
+setup(app);
+
+
+module.exports = app;

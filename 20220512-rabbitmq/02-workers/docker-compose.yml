@@ -1,0 +1,38 @@
+version: "3.9"
+
+services:
+  rabbit:
+    build: ./MessageQueueService
+    hostname: rabbit
+
+  image-store:
+    image: node:16
+    working_dir: /app
+    command: bash -c "npm install -g nodemon && npm install && nodemon bin/www"
+    environment:
+      RABBITMQ_URL: 'amqp://tocode:10203040@rabbit'
+    volumes:
+      - "./ImageStoreService:/app"
+      - "uploads:/app/uploads/"
+      - "images:/app/public/images/"
+    ports:
+      - 3000:3000
+
+  worker:
+    image: node:16
+    working_dir: /app
+    command: bash -c "npm install -g nodemon && npm install && node ./main.js"
+    environment:
+      RABBITMQ_URL: 'amqp://tocode:10203040@rabbit'
+    volumes:
+      - "./ImageProcessingService:/app"
+      - "uploads:/app/uploads/"
+      - "images:/app/images/"
+    deploy:
+      replicas: 4
+      restart_policy:
+        condition: always
+
+volumes:
+  uploads:
+  images:

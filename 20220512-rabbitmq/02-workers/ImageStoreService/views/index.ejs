@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %></title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    <h1><%= title %></h1>
+    <p>Welcome to <%= title %></p>
+    <form action="/" method="POST" enctype="multipart/form-data">
+      <input type="file" name="photos" multiple accept="image/*" />
+      <input type="submit" value="Upload" />
+    </form>
+
+    <h2>Uploaded Files</h2>
+    <ul>
+      <% for (let img of images) { %>
+      <li><%= img.name %>: [<%= img.status %>]</li>
+      <% } %>
+    </ul>
+
+    <h2>Processed Images</h2>
+    <% for (let img of images) { %>
+    <% if (img.url) { %>
+    <img src="<%= img.url %>" />
+    <% } %>
+    <% } %>
+
+  </body>
+</html>

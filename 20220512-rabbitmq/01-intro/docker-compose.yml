@@ -1,0 +1,14 @@
+version: "3.9"
+
+services:
+  rabbitmq:
+    image: rabbitmq:3
+    hostname: rabbitmq
+
+  apps:
+    image: node:18
+    working_dir: /app
+    command: sleep infinity
+    volumes:
+      - ./app/:/app
+

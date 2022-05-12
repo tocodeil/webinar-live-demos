@@ -1,0 +1,19 @@
+server {
+  listen       80;
+  server_name  _;
+
+  location /payments/ {
+    rewrite /payments/(.*) /$1  break;
+    proxy_pass http://payments-service:3000;
+  }
+
+  location /inventory {
+    rewrite /inventory/(.*) /$1  break;
+    proxy_pass http://inventory-service:3000;
+  }
+
+  location /users {
+    rewrite /users/(.*) /$1  break;
+    proxy_pass http://customers-service:3000;
+  }
+}

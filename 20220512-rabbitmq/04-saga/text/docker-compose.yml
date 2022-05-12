@@ -1,0 +1,41 @@
+version: "3.9"
+
+services:
+  rabbit:
+    build: ./MessageQueueService
+    hostname: rabbit
+
+  customers-service:
+    image: node:16
+    working_dir: /app
+    command: bash -c "npm install -g nodemon && npm install && nodemon bin/www"
+    volumes:
+      - "./CustomerService:/app"
+    environment:
+      RABBITMQ_URL: 'amqp://tocode:10203040@rabbit'
+
+  payments-service:
+    image: node:16
+    working_dir: /app
+    command: bash -c "npm install -g nodemon && npm install && nodemon bin/www"
+    environment:
+      RABBITMQ_URL: 'amqp://tocode:10203040@rabbit'
+    volumes:
+      - "./PaymentsService:/app"
+
+  inventory-service:
+    image: node:16
+    working_dir: /app
+    command: bash -c "npm install -g nodemon && npm install && nodemon bin/www"
+    volumes:
+      - "./InventoryService:/app"
+    environment:
+      RABBITMQ_URL: 'amqp://tocode:10203040@rabbit'
+
+  gateway:
+    image: nginx:1.21
+    volumes:
+      - "./GatewayService/default.conf.template:/etc/nginx/templates/default.conf.template"
+    ports:
+      - "8080:80"
+
