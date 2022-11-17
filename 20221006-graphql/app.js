@@ -20,7 +20,7 @@ app.use('/api/v1', apiRouter);
 app.use('/graphql', graphqlHTTP({
   schema: schema,
   graphiql: true,
-  context: {},
+  context: (req) => ({ userId: req.local.id }),
 }));
 
 module.exports = app;

@@ -1,2 +1,27 @@
 module.exports = `
+  type Query {
+    books(minRating:Float): [Book]
+    users: [User]
+    loans: [Loan]
+  }
+
+  type Book {
+    id: Int
+    title: String
+    by: String
+    rating: Float
+  }
+
+  type User {
+    id: Int
+    name: String
+    email: String
+  }
+
+  type Loan {
+    id: Int
+    book: Book
+    userId: Int
+    bookId: Int
+  }
 `;

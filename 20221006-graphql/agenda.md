@@ -1,10 +1,37 @@
-# GraphQL Webinar
+
+
+# GraphQL Webinar - Ynon Perek
+
 
 1. What's Wrong with REST ?
 
+  - Micro Services
+  - Many many clients
+  - API
+
+
+==============
+  /api/v1/books => { books list },
+  /api/v2/books => { books list, foreach book add reviews, foreach book add availability ... }
+  
+  Books Page (client) => /books
+                         /reviews
+                         /loans
+                         /availability_status
+
+
 2. GraphQL In Action - Github API Demo
+  Entity Resolution
+  Query Language: Clent requests specific entities
+  Endpoint - graphql
+
+
+
+  
+
 
 3. Converting a REST API to GraphQL App
+  - node.js / express
 
 4. Optimizations
 
