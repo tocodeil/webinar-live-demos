@@ -2,7 +2,7 @@ aiohttp==3.6.2
 apipkg==1.5
 async-timeout==3.0.1
 attrs==19.3.0
-certifi==2019.11.28
+certifi==2022.12.7
 chardet==3.0.4
 coverage==4.5.4
 execnet==1.7.1
